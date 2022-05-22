@@ -15,3 +15,5 @@ I also wanted to include some kind of way to book the apartment online. But I co
 For the webhosting I just used sinners. I will discuss later with my parents, that if they really want to publish this website, that we look for a more professional webhost where we can use our own url.
 
 The link to the website: https://tenerifehome.sinners.be/
+
+Link to the video where I explain the project: https://youtu.be/zljB7TBCvxo
